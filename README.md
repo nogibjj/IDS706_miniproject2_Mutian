@@ -2,7 +2,7 @@
 
 # Week 2 Mini Project 2 - Pandas Descriptive Statistics Script
 
-## Goal: Install Pandas and Test its Statistical Function
+## Goal: Install Pandas and Test
 
 My Work:
 1) Add the required package(pandas) in requirements.txt and clarify its version to be 2.1.0
