@@ -1,5 +1,4 @@
-# Python Template [![CI](https://github.com/Mutian1207/IDS706/actions/workflows/cicd.yml/badge.svg)](https://github.com/Mutian1207/IDS706/actions/workflows/cicd.yml)
-
+# Python Template [![CI](https://github.com/nogibjj/IDS706_miniproject2_Mutian/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/IDS706_miniproject2_Mutian/actions/workflows/cicd.yml)
 # Week 2 Mini Project 2 - Pandas Descriptive Statistics Script
 
 ## Goal
